@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الة حاسبة</string>
+    <string name="buttonOne">1</string>
+    <string name="buttontwo">2</string>
+    <string name="buttonthree">3</string>
+    <string name="buttonfour">4</string>
+    <string name="buttonfive">5</string>
+    <string name="buttonsix">6</string>
+    <string name="buttonseven">7</string>
+    <string name="buttoneight">8</string>
+    <string name="buttonnine">9</string>
+    <string name="buttonzero">0</string>
+    <string name="buttonadd">حمع</string>
+    <string name="buttonsub">طرح</string>
+    <string name="buttonmul">ضرب</string>
+    <string name="buttondivide">قسمة</string>
+    <string name="buttondot">.</string>
+    <string name="buttonclear">مسح</string>
+    <string name="buttonequal">يساوي</string>
+    <string name="be"> e</string>
+
+
+
+</resources>

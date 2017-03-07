@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SmallCalculator</string>
+    <string name="buttonOne">1</string>
+    <string name="buttontwo">2</string>
+    <string name="buttonthree">3</string>
+    <string name="buttonfour">4</string>
+    <string name="buttonfive">5</string>
+    <string name="buttonsix">6</string>
+    <string name="buttonseven">7</string>
+    <string name="buttoneight">8</string>
+    <string name="buttonnine">9</string>
+    <string name="buttonzero">0</string>
+    <string name="buttonadd">+</string>
+    <string name="buttonsub">-</string>
+    <string name="buttonmul">*</string>
+    <string name="buttondivide">/</string>
+    <string name="buttondot">.</string>
+    <string name="buttonclear">C</string>
+    <string name="buttonequal">=</string>
+    <string name="buttonpower">^</string>
+    <string name="be">e</string>
+    <string name="buttonBye">3.14</string>
+    <string name="buttonFact">!</string>
+
+
+
+
+</resources>
